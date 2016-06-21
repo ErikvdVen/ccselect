@@ -7,3 +7,5 @@ I don't always want to run `csscomb` on a complete file, especially not when wor
 ```
 Note: `.css` files work as well obviously.
 
+# PHPStorm
+![External Tools in PHPStorm](/../screenshots/phpstorm_external_tools.png?raw=true "External Tools in PHPStorm")
