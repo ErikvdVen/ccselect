@@ -3,7 +3,7 @@ I don't always want to run `csscomb` on a complete file, especially not when wor
 
 # how it works
 ```
-./pycsscomb --start <start rownumber> --end <end rownumber> --file /path/to/file.scss
+./ccselect.py --start <start rownumber> --end <end rownumber> --file /path/to/file.scss
 ```
 Note: `.css` files work as well obviously.
 
