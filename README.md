@@ -8,4 +8,5 @@ I don't always want to run `csscomb` on a complete file, especially not when wor
 Note: `.css` files work as well obviously.
 
 # PHPStorm
+This is my setup for PHPStorm, so I only have to select the particular code and hit `CTRL + SHIFT + C` to run `csscomb` on the selection.
 ![External Tools in PHPStorm](/../screenshots/phpstorm_external_tools.png?raw=true "External Tools in PHPStorm")
